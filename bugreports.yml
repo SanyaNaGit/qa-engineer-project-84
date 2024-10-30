@@ -13,7 +13,7 @@
 - summary: |
     Сайт некорректно отображается на телефоне
   environment: |
-    Google Chrome, Devtools, Pixel 7, Samsung Galaxy S20 Ultra
+    Google Chrome, Devtools, Pixel 7, Samsung Galaxy S20 Ultra, iPad Air, Nest Hub
   steps-to-reproduce: |
     Открыть сайт на мобильном устройстве
   expected-result: |
