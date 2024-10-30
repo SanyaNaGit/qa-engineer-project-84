@@ -1,0 +1,22 @@
+---
+- summary: |
+    Отсутствует мобильная версия сайта
+  environment: |
+    Google Chrome, Devtools, Pixel 7, Samsung Galaxy S20 Ultra
+  steps-to-reproduce: |
+    Открыть сайт на мобильном устройстве
+  expected-result: |
+    Адаптированный под мобильное устройство сайт
+  actual-result: |
+    Все блоки съезжают, информация не читабельна
+
+- summary: |
+    Сайт некорректно отображается на телефоне
+  environment: |
+    Google Chrome, Devtools, Pixel 7, Samsung Galaxy S20 Ultra
+  steps-to-reproduce: |
+    Открыть сайт на мобильном устройстве
+  expected-result: |
+    Адаптированный под мобильное устройство сайт
+  actual-result: |
+    Все блоки съезжают, информация не читабельна
